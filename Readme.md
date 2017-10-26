@@ -1,4 +1,4 @@
-# A novel topic modeling based weighting framework for directed undersampling
+# A novel topic modeling based weighting framework for class imbalance learning.
 
 ## List of Files
 * confusionmatStats.m -> Function which computes the Precision, Recall, F-score and Confusion Matrix 
