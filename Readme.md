@@ -6,8 +6,6 @@
 * plsa2.m -> Function which implements the PLSA algorithm
 * run_PLSA.m -> Wrapper Function to call PLSA
 * test_todus.m -> Wrapper Function to perform 5-fold CV TODUS Algorithm
-* test_svm.m -> Wrapper Function to perform 5-fold CV SVM-distance inspired weights
-* svm_distance.py -> Function which claculates the SVM-Distance Based Weights
 * TODUS.m -> Function which implements the TODUS Algorithm
 
 ## Usage
