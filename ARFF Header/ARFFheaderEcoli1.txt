@@ -1,0 +1,23 @@
+@relation ecoli
+
+
+
+@attribute mcg numeric
+
+@attribute gvh numeric
+
+@attribute lip numeric
+
+@attribute chg numeric
+
+@attribute aac numeric
+
+@attribute alm1 numeric
+
+@attribute alm2 numeric
+
+@attribute class {-1,1}
+
+
+
+@data

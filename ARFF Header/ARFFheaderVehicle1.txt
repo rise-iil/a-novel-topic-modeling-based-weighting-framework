@@ -1,0 +1,46 @@
+@relation vehicle
+
+
+
+@attribute 'COMPACTNESS' real
+
+@attribute 'CIRCULARITY' real
+
+@attribute 'DISTANCE CIRCULARITY' real
+
+@attribute 'RADIUS RATIO' real
+
+@attribute 'PR.AXIS ASPECT RATIO' real
+
+@attribute 'MAX.LENGTH ASPECT RATIO' real
+
+@attribute 'SCATTER RATIO' real
+
+@attribute 'ELONGATEDNESS' real
+
+@attribute 'PR.AXIS RECTANGULARITY' real
+
+@attribute 'MAX.LENGTH RECTANGULARITY' real
+
+@attribute 'SCALED VARIANCE_MAJOR' real
+
+@attribute 'SCALED VARIANCE_MINOR' real
+
+@attribute 'SCALED RADIUS OF GYRATION'  real
+
+@attribute 'SKEWNESS ABOUT_MAJOR' real
+
+@attribute 'SKEWNESS ABOUT_MINOR' real
+
+@attribute 'KURTOSIS ABOUT_MAJOR' real
+
+@attribute 'KURTOSIS ABOUT_MINOR' real
+
+@attribute 'HOLLOWS RATIO' real
+
+@attribute 'Class' {-1,1}
+
+
+
+@data
+

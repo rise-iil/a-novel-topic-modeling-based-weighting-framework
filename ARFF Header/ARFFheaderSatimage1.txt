@@ -1,0 +1,40 @@
+@relation 'satimage'
+
+@attribute A1 real
+@attribute A2 real
+@attribute A3 real
+@attribute A4 real
+@attribute A5 real
+@attribute A6 real
+@attribute A7 real
+@attribute A8 real
+@attribute A9 real
+@attribute A10 real
+@attribute A11 real
+@attribute A12 real
+@attribute A13 real
+@attribute A14 real
+@attribute A15 real
+@attribute A16 real
+@attribute A17 real
+@attribute A18 real
+@attribute A19 real
+@attribute A20 real
+@attribute A21 real
+@attribute A22 real
+@attribute A23 real
+@attribute A24 real
+@attribute A25 real
+@attribute A26 real
+@attribute A27 real
+@attribute A28 real
+@attribute A29 real
+@attribute A30 real
+@attribute A31 real
+@attribute A32 real
+@attribute A33 real
+@attribute A34 real
+@attribute A35 real
+@attribute A36 real
+@attribute class {-1,1}
+@data
