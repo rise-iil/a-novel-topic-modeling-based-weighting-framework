@@ -34,16 +34,6 @@ TODUS Algorithm and its variants are used for efficient learning from unbalanced
 		fid = fopen('**location of the ARFF Header file**','r');
 * Run the wrapper function
 
-### Running the code with svm inspired weights
-
-* Initially, process the dataset to 5-fold CV, so that the filename is of the following format 'dataset_name+train+iteration_no+fold_no'
-(We have provided the files for all the datasets, on which we performed the experiments)
-* In the script.sh file, change the filename and run it
-* Specify the location of the CSV file in the wrapper function of the Algorithm to be run</br>
-		file = '**location of the CSV file**'; 
-* Specify the location of the ARFF header in line 14 of CSVtoARFF.m file</br>
-		fid = fopen('**location of the ARFF Header file**','r');
-* Run the wrapper function
 		
 ### Output Format
 
